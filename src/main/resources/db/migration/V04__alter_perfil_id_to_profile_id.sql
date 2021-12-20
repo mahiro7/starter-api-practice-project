@@ -1,0 +1,1 @@
+ALTER TABLE user RENAME COLUMN perfil_id TO profile_id

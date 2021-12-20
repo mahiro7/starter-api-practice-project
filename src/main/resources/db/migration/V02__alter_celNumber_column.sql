@@ -1,0 +1,1 @@
+ALTER TABLE tb_restaurant RENAME COLUMN celNumber TO cel_number;
